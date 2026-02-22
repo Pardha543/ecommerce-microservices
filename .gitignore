@@ -1,0 +1,22 @@
+# Eclipse / IDE
+.metadata/
+.recommenders/
+.settings/
+.classpath
+.project
+
+# VS Code / IntelliJ
+.vscode/
+.idea/
+*.iml
+
+# Build output
+target/
+**/target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
